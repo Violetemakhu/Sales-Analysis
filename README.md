@@ -13,13 +13,18 @@
 
   
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the year. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven decisions, and gain a deeper understanding of the company's performance. 
 
+![xls9agt9](https://github.com/Violetemakhu/Sales-Analysis/assets/152151890/08915906-3fcd-4aa6-acfc-34290108ba81)
+
+
 ### Data Source
 
-Sales Data: the primary dataset used for this analysis is the "sales_data.csv"file, containing detailed information about each sales by the company. 
+Sales Data:  the primary dataset used for this analysis is the "sales_data.csv"file, containing detailed information about each sales by the company. 
 
+---
 ### Tools
 
 - Excel - Data Cleaning
@@ -64,4 +69,9 @@ Based on the analysis, I'd recommend the following actions:
   ### Limitations
 
    I had to remove all zero value from the budget and revenue
+
+  😄
+  💻
+  
+  
      
