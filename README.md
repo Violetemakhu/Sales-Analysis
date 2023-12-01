@@ -18,7 +18,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Source
 
-Sales Data: the primary dataset used for this analysis is the "sales_data.csv"file, containing detailed information about each sales by the company 
+Sales Data: the primary dataset used for this analysis is the "sales_data.csv"file, containing detailed information about each sales by the company. 
 
 ### Tools
 
