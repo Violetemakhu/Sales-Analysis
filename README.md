@@ -70,10 +70,10 @@ Based on the analysis, I'd recommend the following actions:
 
   ### Limitations
 
-   I had to remove all zero value from the budget and revenue
+   I had to remove all zero value from the Unite/quantity and revenue.
 
-  😄
-  💻
+  
+  
   
   
      
