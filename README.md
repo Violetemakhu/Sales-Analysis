@@ -17,7 +17,9 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the year. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven decisions, and gain a deeper understanding of the company's performance. 
 
-![xls9agt9](https://github.com/Violetemakhu/Sales-Analysis/assets/152151890/08915906-3fcd-4aa6-acfc-34290108ba81)
+![15bzjlal](https://github.com/Violetemakhu/Sales-Analysis/assets/152151890/1383c2ff-714a-4d05-adeb-6211a5b38ca3)
+
+
 
 
 ### Data Source
@@ -62,7 +64,7 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 Based on the analysis, I'd recommend the following actions: 
-- Invest in marketing and promotions during the peak peak sales seasons to maximize revenue.
+- Invest in marketing and promotions during the peak sales seasons to maximize revenue.
 - Focus on expanding and promoting products in categoty A.
 - Implement a customer segmetation strategy to target high LTV customers effectively.
 
